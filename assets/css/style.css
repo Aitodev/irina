@@ -814,6 +814,10 @@ img {
     padding: 22px 0px;
 }
 
+.logo-bolshe {
+    height: 80px;
+}
+
 .main-header .nav-outer {
     position: relative;
     z-index: 1;
@@ -3506,7 +3510,7 @@ img {
     position: relative;
     margin-top: -165px;
     z-index: 9;
-    padding: 50px 0px 315px;
+    padding: 50px 0px 35px;
 }
 
 .clients-section .pattern {
