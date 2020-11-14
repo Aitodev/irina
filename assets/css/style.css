@@ -2824,8 +2824,7 @@ img {
 }
 
 .banner-section .owl-theme .owl-nav .owl-prev::after {
-    font-family: Flaticon;
-    content: "\f102";
+    content: "<";
     position: absolute;
     top: 0px;
     width: 70px;
@@ -2839,9 +2838,6 @@ img {
     transition: all 300ms ease 0s;
     border-radius: 50%;
     border: 2px solid #fff;
-    -webkit-transform: rotate(180deg);
-        -ms-transform: rotate(180deg);
-            transform: rotate(180deg);
 }
 
 .banner-section .owl-theme .owl-nav .owl-next {
@@ -2869,8 +2865,7 @@ img {
 }
 
 .banner-section .owl-theme .owl-nav .owl-next::after {
-    font-family: Flaticon;
-    content: "\f102";
+    content: ">";
     position: absolute;
     top: 0px;
     width: 70px;
