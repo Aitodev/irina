@@ -19443,10 +19443,7 @@ img {
     border-radius: 6px;
     margin-top: -50px;
 }
-
-
-
-
-
-
-
+.number{
+    display: flex;
+    margin-left: 28%;
+}
